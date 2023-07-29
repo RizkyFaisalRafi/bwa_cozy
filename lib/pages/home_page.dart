@@ -155,7 +155,6 @@ class HomePage extends StatelessWidget {
                 builder: (context, AsyncSnapshot snapshot) {
                   if (snapshot.hasData) {
                     List<SpaceModel> data = snapshot.data;
-
                     int index = 0;
 
                     return Column(
