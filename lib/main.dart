@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => SpaceProvider(),
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Dart and Flutter Development Bootcamp: Find House App.',
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
