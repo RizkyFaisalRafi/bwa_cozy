@@ -168,10 +168,11 @@ class HomePage extends StatelessWidget {
                         );
                       }).toList(),
                     );
+                  } else {
+                    return const Center(
+                      child: CircularProgressIndicator(),
+                    );
                   }
-                  return const Center(
-                    child: CircularProgressIndicator(),
-                  );
                 },
               ),
             ),
