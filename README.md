@@ -11,6 +11,7 @@ Aplikasi pencarian kost dengan menggunakan API dari:
 - Menampilkan photo ruangan pada tempat tersebut dari API
 - Navigasi ke link Maps menggunakan package url_launcher
 - Navigasi ke nomor telephone menggunakan package url_launcher
+- Menggunakan Firebase Distribution [Link Invite](https://appdistribution.firebase.dev/i/71a2dfc939c59b1a)
 
 ## :fire: API
 - From API [bwa cozy API](https://bwa-cozy-api.vercel.app/recommended-spaces)
