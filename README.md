@@ -1,16 +1,27 @@
 # bwa_cozy
 
-A new Flutter project.
+Aplikasi pencarian kost dengan menggunakan API dari: 
+[bwa cozy API](https://bwa-cozy-api.vercel.app/recommended-spaces)
 
-## Getting Started
+## :iphone: UI
+![bwa cozy](https://github.com/RizkyFaisalRafi/bwa_cozy/assets/87520408/ce2cef34-fd19-4401-b8bf-3b43071a2416)
 
-This project is a starting point for a Flutter application.
+## :fire: MVP
+- Menampilkan Rekomendasi Tempat
+- Menampilkan photo ruangan pada tempat tersebut dari API
+- Navigasi ke link Maps menggunakan package url_launcher
+- Navigasi ke nomor telephone menggunakan package url_launcher
 
-A few resources to get you started if this is your first Flutter project:
+## :fire: API
+- From API [bwa cozy API](https://bwa-cozy-api.vercel.app/recommended-spaces)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :hearts: Package
+- google_fonts: ^5.1.0
+- url_launcher: ^6.1.12
+- provider: ^6.0.5
+- http: ^1.1.0
+- flutter_launcher_icons: ^0.13.1
+- firebase_core: ^2.15.0
+  
+# :file_folder: Dokumen Portofolio
+- ![Dokumen](https://drive.google.com/drive/folders/137a_6fMfMj-zILRe21wJ5VE8cfs3FW-6?usp=sharing)
