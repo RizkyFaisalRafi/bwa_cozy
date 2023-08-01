@@ -6,7 +6,7 @@ Aplikasi pencarian kost dengan menggunakan API dari:
 ## :iphone: UI
 ![bwa cozy](https://github.com/RizkyFaisalRafi/bwa_cozy/assets/87520408/ce2cef34-fd19-4401-b8bf-3b43071a2416)
 
-## :fire: MVP
+## :page_with_curl: MVP
 - Menampilkan Rekomendasi Tempat
 - Menampilkan photo ruangan pada tempat tersebut dari API
 - Navigasi ke link Maps menggunakan package url_launcher
