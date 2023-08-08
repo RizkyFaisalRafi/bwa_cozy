@@ -1,5 +1,4 @@
 # bwa_cozy
-
 Aplikasi pencarian kost dengan menggunakan API dari: 
 [bwa cozy API](https://bwa-cozy-api.vercel.app/recommended-spaces)
 
